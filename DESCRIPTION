@@ -1,0 +1,15 @@
+Package: MVMRmode
+Title: MVMR Mode: introducing a plurality valid sensitivity analysis for multivariable MR
+Version: 0.0.0.9000
+Authors@R:
+  person("Benjamin", "Woolf", , "benjamin.woolf@bristol.ac.uk", role = c("aut", "cre"),
+         comment = c(ORCID = "0000-0002-1505-2570"))
+Description: This package runs a plurality valid/modal sensitivity analysis for MVMR 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+
+
